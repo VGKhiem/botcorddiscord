@@ -1,0 +1,12 @@
+{
+  "name": "discord-bot-host",
+  "version": "1.0.0",
+  "main": "bot-host.js",
+  "scripts": {
+    "start": "node bot-host.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.3.1"
+  }
+}
